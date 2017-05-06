@@ -1,2 +1,2 @@
 # VideoGameHunterWebsite
-Website To Feature My App
+Website To Promote My App
